@@ -1,2 +1,2 @@
 # CS162
-This includes process of creating and developing an operating system in UC berkeley course
+This consists of steps of extending the skeleton code from UC Berkeley CS162 course

@@ -1,2 +1,2 @@
 # CS162
-This consists of steps of extending the skeleton code from UC Berkeley CS162 course
+This consists of steps of extending the skeleton code from CS162 course released by UC Berkeley

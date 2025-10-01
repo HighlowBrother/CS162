@@ -1,2 +1,6 @@
-# CS162
-This consists of steps of extending the skeleton code from CS162 course released by UC Berkeley
+git add README.md
+ls
+README.md
+c
+exit
+exit()
